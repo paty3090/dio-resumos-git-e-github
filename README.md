@@ -15,6 +15,21 @@ Repositórios para armazenar resumos sobre Git e Github do curso versionamento d
 ```
 git init 
 ```
+```
+mkdir + nome da pasta 
+```
+```
+git clone + UrL + nome da pasta
+```
+```
+git remote -v
+```
+```
+git remote add origin + URL
+```
+```
+git clone + URL --branch feature -1 --single - branch
+```
 ## 🔍 Referências
 [Digital Innovatio One](https://web.dio.me/home)
 
