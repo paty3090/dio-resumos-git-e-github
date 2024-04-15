@@ -18,3 +18,7 @@ git init
 ## 🔍 Referências
 [Digital Innovatio One](https://web.dio.me/home)
 
+<div alinhar="centro">
+<img src="https://github.com/paty3090/dio-resumos-git-e-github/assets/84462967/4419a9e2-c2d8-4905-885a-885a7a4c7065" width="400px" />
+</div>
+
